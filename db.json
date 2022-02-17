@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "This 1st feedback is coming from db.json file."
+    },
+    {
+      "id": 2,
+      "rating": 7,
+      "text": "This 2nd feedback is coming from db.json file."
+    },
+    {
+      "text": "This 3rd feedback is coming from db.json file.",
+      "rating": 9,
+      "id": 3
+    },
+    {
+      "text": "This item is now updated with rating 8",
+      "rating": 8,
+      "id": 4
+    }
+  ]
+}
